@@ -222,7 +222,7 @@ public:
 	}
 	void print() {
 		cout << fixed << setprecision(2);
-		cout << "Time: " << time << "Price: " << price << endl;
+		cout << "Time: " << time/ SEC_IN_MINUTE <<" min. " << "Price: " << price << "$" << endl;
 	}
 private:
 	int speed;
@@ -263,11 +263,11 @@ int main()
 	fPassport.addVisa("Siberia");
 	fPassport.print();
 	cout << endl;
-	Car car1(60, 1000, 25);
+	Car car1(60, 5000, 25);
 	car1.print();
-	Bike bike1(30, 1000, 10);
+	Bike bike1(30, 5000, 10);
 	bike1.print();
-	Cart cart1(10, 1000, 3);
+	Cart cart1(10, 5000, 3);
 	cart1.print();
 
 }
