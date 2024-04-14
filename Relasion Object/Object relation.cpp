@@ -114,7 +114,7 @@ public:
 };
 
 
-int main() {
+/*int main() {
     char filepath[] = "Task1.txt";
     MyData data1;
     data1.setPath(filepath);
@@ -129,4 +129,4 @@ int main() {
     data3.Display();
 
     return 0;
-}
+}*/
