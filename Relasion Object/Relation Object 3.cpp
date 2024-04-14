@@ -254,7 +254,7 @@ public:
 };
 
 
-int main()
+/*int main()
 {
 	Aspirant aspirant1("Nikolay", 25, "IT", "C++");
 	aspirant1.print();
@@ -270,4 +270,4 @@ int main()
 	Cart cart1(10, 5000, 3);
 	cart1.print();
 
-}
+}*/
