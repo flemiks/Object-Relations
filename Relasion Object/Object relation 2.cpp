@@ -1,4 +1,4 @@
-#define _USE_MATH_DEFINES
+/*#define _USE_MATH_DEFINES
 
 #include <iostream>
 #include <sstream>
@@ -203,3 +203,4 @@ int main() {
 
     return 0;
 }
+*/

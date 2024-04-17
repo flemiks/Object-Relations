@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Date.cpp" />
     <ClCompile Include="Object relation 2.cpp" />
+    <ClCompile Include="Object relation 3.cpp" />
     <ClCompile Include="Object relation.cpp" />
     <ClCompile Include="Relasion Object 2.cpp" />
     <ClCompile Include="Relasion Object.cpp" />
