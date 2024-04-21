@@ -96,7 +96,7 @@ public:
     }
 };
 
-int main() {
+/*int main() {
     vector<Shape*> shapes;
     shapes.push_back(new Square(10, 10, 50));
     shapes.push_back(new Rectangle(20, 20, 30, 40));
@@ -152,4 +152,4 @@ int main() {
     }
 
     return 0;
-}
+}*/

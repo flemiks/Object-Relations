@@ -130,6 +130,7 @@
     <ClCompile Include="Date.cpp" />
     <ClCompile Include="Object relation 2.cpp" />
     <ClCompile Include="Object relation 3.cpp" />
+    <ClCompile Include="Object relation 4.cpp" />
     <ClCompile Include="Object relation.cpp" />
     <ClCompile Include="Relasion Object 2.cpp" />
     <ClCompile Include="Relasion Object.cpp" />
@@ -137,6 +138,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Date.h" />
+    <ClInclude Include="Matrix.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

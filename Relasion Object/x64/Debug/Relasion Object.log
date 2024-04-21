@@ -1,4 +1,15 @@
-﻿  Object relation 2.cpp
-  Object relation 3.cpp
-  Generating Code...
+﻿  Object relation 4.cpp
+E:\Step Lessonns\C++\18\Relasion Object\Relasion Object\Matrix.h(66,9): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'Object%20relation%204.cpp')
+  E:\Step Lessonns\C++\18\Relasion Object\Relasion Object\Matrix.h(66,9):
+  the template instantiation context (the oldest one first) is
+  	E:\Step Lessonns\C++\18\Relasion Object\Relasion Object\Matrix.h(199,2):
+  	see reference to class template instantiation 'Matrix<T>' being compiled
+  
+E:\Step Lessonns\C++\18\Relasion Object\Relasion Object\Matrix.h(74,14): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'Object%20relation%204.cpp')
+  
+E:\Step Lessonns\C++\18\Relasion Object\Relasion Object\Matrix.h(82,14): warning C4984: 'if constexpr' is a C++17 language extension
+  (compiling source file 'Object%20relation%204.cpp')
+  
   Relasion Object.vcxproj -> E:\Step Lessonns\C++\18\Relasion Object\x64\Debug\Relasion Object.exe
