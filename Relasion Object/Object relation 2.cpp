@@ -1,5 +1,4 @@
-/*#define _USE_MATH_DEFINES
-
+/*#define _USE_MATH_DEFINE
 #include <iostream>
 #include <sstream>
 #include <stdexcept>
